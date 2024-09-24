@@ -1,7 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿
 
-namespace GenericApi.Models;
+namespace NorthwindApi.Data.Models;
 
 public partial class CurrentProductList
 {
